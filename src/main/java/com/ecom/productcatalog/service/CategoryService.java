@@ -1,4 +1,4 @@
-package com.ecom.productcatalog.category;
+package com.ecom.productcatalog.service;
 
 import com.ecom.productcatalog.model.Category;
 import com.ecom.productcatalog.repository.CategoryRepository;
